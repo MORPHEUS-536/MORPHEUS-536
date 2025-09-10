@@ -7,9 +7,9 @@
 
 --------------------------------------------------------------------
 
-💻 Tech Stack & Skills I work with:
+💻 Tech Stack :
 ---------------------------------------------------------------
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,mysql,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,flask,cpp,py,mysql)](https://skillicons.dev)
 
 ======================================================================
 
