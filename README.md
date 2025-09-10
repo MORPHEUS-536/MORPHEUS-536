@@ -1,13 +1,18 @@
-Hi there, I'm Arjun Thakku Kumarakannan! 👋
-🎓 I'm a B.Tech student currently pursuing my degree at the S.R.M. Institute of Science and Technology, KTR Campus.
+<b>Hi there, I'm Arjun Thakku Kumarakannan!</b> 👋<br>
 
+--------------------------------------------------------------------
+
+🎓 I'm a B.Tech student currently pursuing my degree at S.R.M. Institute of Science and Technology, KTR Campus.<br>
 👨‍💻 I'm a passionate learner and developer, always excited to explore new technologies.
+
+--------------------------------------------------------------------
 
 💻 Tech Stack & Skills
 Here are some of the technologies I work with:
 ---------------------------------------------------------------
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,mysql,py)](https://skillicons.dev)
 
+======================================================================
 
 📊 My GitHub Stats
 
